@@ -1,0 +1,38 @@
+body{
+  width: 700px;
+  padding:0;
+  margin: 80px auto 0;
+  font-family:helvetica,times,serif;
+  font-weight:normal;
+  color: #333;
+  font-size: 2em;
+  background-color: #eee;
+}
+
+p{
+	line-height: 1.2em;
+}
+
+.clear{
+  clear: both;
+}
+
+a{
+	text-decoration: none;
+	padding: 0px 4px;
+	color: #eee;
+	background-color: #333;
+}
+
+a:hover{
+	background-color: #222;
+}
+
+h1 {
+  letter-spacing:-3px;
+  font-weight: normal;
+  font-size:2em;
+  line-height:1em;
+  margin-top: 30px;
+}
+
